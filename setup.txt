@@ -1,0 +1,7 @@
+node/webpack setup
+
+- npm init -y
+- npm install
+- add title to webpack.config and add description to package.json
+- npm run lint
+- npm test
